@@ -57,7 +57,7 @@ public class Example {
   }
 
   /* this is how we call the method */
-  public static void main() {
+  public static void main(String [] args) {
     heyName("Sam");
   }
 }
